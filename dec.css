@@ -1,0 +1,109 @@
+.images {
+    background-image: url("https://ftr.imgix.net/FQBOc9Uh5e22pHikmfCJR/3ce3022343c7ad918545a6a2e01f36b5/homepage-pingzhu-hero-bg-opt-v2.jpg?auto=format%2Ccompress&cs=srgb&fit=max&q=60&w=1920&s=ae7331908c13b70917d2f5b72adea99b");
+    height: 50%;
+}
+
+.img-cent {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+.h {
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.caption,
+.h {
+    text-align: center;
+}
+
+.back {
+    background-color: cadetblue;
+    border-radius: 100em;
+    width: 300px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 42.5%;
+}
+
+.vpn {
+    text-align: left;
+    width: 80%;
+    color: red;
+    display: inline;
+}
+
+.lan {
+    text-align: right;
+    width: 80%;
+    padding-right: 30px;
+    display: inline-block;
+}
+
+.img-caption {
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    margin-left: 55px;
+    text-align: center;
+}
+
+.img-desc {
+    font-size: 20px;
+    font-family: "Roboto";
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card-descp {
+    background-color: white;
+    height: 200px;
+    width: 490px;
+    margin-left: 40px;
+}
+
+.heading-img {
+    font-size: 60px;
+}
+
+.height-img {
+    height: 400px;
+    margin-top: 250px;
+}
+
+.card-width {
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    margin-right: 100px;
+}
+
+.down-img-size {
+    height: 200px;
+    width: 300px;
+}
+
+.bg-img {
+    background-color: #ceecf0;
+}
+
+.city-style {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.back-name {
+    text-align: center;
+    font-size: 10px;
+}
+
+.last-img-size {
+    height: 400px;
+    width: 1000px;
+    margin-left: 400px;
+}
